@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741966254 source:c:\users\alejo\onedrive\desktop\taller l1\practica 1\ej13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
